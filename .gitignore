@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+tester.js
+/src/tuya/*.js
+/src/tuya/*.js.map
+/src/utils/*.js
+/src/utils/*.js.map

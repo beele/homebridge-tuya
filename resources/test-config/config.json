@@ -1,0 +1,17 @@
+{
+    "bridge": {
+        "name": "test-bridge",
+        "username": "11:11:22:33:44:55",
+        "port": 51828,
+        "pin": "123-45-678"
+    },
+    "description": "Test configuration for local homebridge, test purposes only!",
+    "accessories": [
+    ],
+    "platforms": [
+        {
+            "platform": "Tuya-Platform",
+            "name": "Tuya platform test configuration"
+        }
+    ]
+}
