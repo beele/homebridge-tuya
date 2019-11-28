@@ -10,8 +10,12 @@
     ],
     "platforms": [
         {
-            "platform": "Tuya-Platform",
-            "name": "Tuya platform test configuration"
+            "platform": "TuyaPlatform",
+            "name": "Tuya",
+            "room": "Default",
+            "username": "",
+            "password": "",
+            "countryCode": 32
         }
     ]
 }

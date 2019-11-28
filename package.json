@@ -6,7 +6,7 @@
   "scripts": {
     "postinstall": "tsc",
     "compile": "tsc",
-    "homebridge": "homebridge -P . -U ./resources/test-config/"
+    "homebridge": "tsc && homebridge -P . -U ./resources/test-config/"
   },
   "license": "ISC",
   "keywords": [
